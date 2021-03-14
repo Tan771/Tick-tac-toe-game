@@ -1,2 +1,3 @@
 # Tick-tac-toe-game
-My first python project creating a tic tac toe game
+Trying out git with a python project creating a tic tac toe game
+
